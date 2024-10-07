@@ -12,8 +12,7 @@ function gfg(n){
         else if(n ==5) cls = "five";
         stars[i].className = "star " + cls;
     }
-    output.innerText = "Rating is: " + n + "/5;"
-
+    output.innerText = "Rating is: " + n + "/5";
 }
 function remove(){
     let i = 0;
