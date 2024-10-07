@@ -24,5 +24,6 @@ body{
 }
 
 .star{
-    
+    font-size: 10vh;
+    cursor: pointer;
 }
