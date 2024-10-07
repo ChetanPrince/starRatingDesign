@@ -28,18 +28,18 @@ body{
     cursor: pointer;
 }
 .one{
-    color: rgb(255, 0, 0, 0);
+    color: rgb(255, 0, 0, 1);
 }
 .two{
-    color: rgb(255, 106, 0, 0);
+    color: rgb(255, 106, 0, 1);
     
 }
 .three{
-    color: rgb(255, 255, 120, 0);
+    color: rgb(255, 255, 120, 1);
 }
 .four{
-    color: rgb(255, 255, 0, 0);
+    color: rgb(255, 255, 0, 1);
 }
 .five{
-    color: rgb(24, 159, 0, 0);
+    color: rgb(24, 159, 0, 1);
 }
